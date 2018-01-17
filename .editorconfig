@@ -1,0 +1,24 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+; Estilo de identação em arquivos HTML
+[*.html]
+indent_style = space
+indent_size = 2
+
+; Estilo de identação em arquivos CSS
+[*.css]
+indent_style = space
+indent_size = 2
+
+; Estilo de identação em arquivos JS dentro do diretório Scripts
+[*.js]
+indent_style = space
+indent_size = 4

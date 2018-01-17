@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/K3yboard/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/K3yboard/js-tdd-course#readme"
+  "homepage": "https://github.com/K3yboard/js-tdd-course#readme",
+  "devDependencies": {}
 }
