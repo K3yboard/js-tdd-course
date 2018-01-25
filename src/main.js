@@ -1,4 +1,9 @@
-a = 3;
-const b = 2
-const b = 4
-const c = "asdddasdasdasdasdadasdddasdasdasdasdadasdddasdasdasdasdadasdddasdasdasdasdadasdddasdasdasdasdadasdddasdasdasdasdadasdddasdasdasdasdadasdddasdasdasdasdad";
+const a = 'a';
+const b = 'b';
+const c = 'c';
+
+function sum() {
+  return a + b + c;
+}
+
+sum();
